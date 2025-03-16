@@ -3,6 +3,7 @@
 
 # run in /draft-irtf-cfrg-hash-to-curve/poc/
 # install package with sage -pip install ecdsa library
+# run with sage ecdh_psi.sage
 
 import sys
 import os
